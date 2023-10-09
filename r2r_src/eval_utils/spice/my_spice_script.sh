@@ -1,0 +1,1 @@
+java -jar -Xmx8G spice-1.0.jar example_input.json -cache cache -out test_out.txt -subset -silent

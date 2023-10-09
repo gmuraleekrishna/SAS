@@ -1,0 +1,7 @@
+*.gz
+*.tar
+*.jar
+**/__pycache__/
+*.mdb
+*.tsv
+tasks/
