@@ -1,7 +1,7 @@
 # SAS
 
 ## Install
-The code is based on Matterplot3D Simulator, please follow [R2R-EnvDrop](https://github.com/airsplay/R2R-EnvDrop) to setup the environment. Beside the default env, SAS needs additional libraries:
+The code is based on Matterport3D Simulator, please follow [R2R-EnvDrop](https://github.com/airsplay/R2R-EnvDrop) to setup the environment. Beside the default env, SAS needs additional libraries:
 * lmdb
 * scipy
 * tslearn
